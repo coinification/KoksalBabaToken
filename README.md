@@ -2,6 +2,7 @@
 
 This is the smart contract for the Koksal Baba token:
 
+```
 @@@  @@@   @@@@@@   @@@  @@@   @@@@@@    @@@@@@   @@@       
 @@@  @@@  @@@@@@@@  @@@  @@@  @@@@@@@   @@@@@@@@  @@@       
 @@!  !@@  @@!  @@@  @@!  !@@  !@@       @@!  @@@  @@!       
@@ -12,14 +13,9 @@ This is the smart contract for the Koksal Baba token:
 :!:  !:!  :!:  !:!  :!:  !:!      !:!   :!:  !:!  :!:      
 ::   :::  ::::: ::  ::   :::  :::: ::   ::   :::  :: :::::  
 :   :::   : :  :    :   :::  :: : :     :   : :  : :: : : 
+```
 
-🌔 Website:  https://koksal.rocks/
-🌔 Telegram: https://t.me/KoksalBabaToken
-🌔 Twitter:  https://twitter.com/KoksalBabaToken
-🌔 Discord:  https://discord.gg/......
-🌔 Github:   https://github.com/coinification/KoksalBabaToken.git
-
-KoksalBaba Token ($KOKS) is a meme coin, calling itself not a meme coin but “a fanbase movement.” It’s a cryptocurrency birthed by fans of Köksal Baba memes. The coin is named after the master himself: Köksal Bektaşoğlu aka Koksal Baba.
+> KoksalBaba Token ($KOKS) is a meme coin, calling itself not a meme coin but “a fanbase movement.” It’s a cryptocurrency birthed by fans of Köksal Baba memes. The coin is named after the master himself: Köksal Bektaşoğlu aka Koksal Baba.
 
 ### An ERC 20 Token
 
@@ -82,8 +78,12 @@ For implementing their amazing Smart Contracts and dApps
 
 For creating this meme token.
 
-🌔 Website:  https://koksal.rocks/
-🌔 Telegram: https://t.me/KoksalBabaToken
-🌔 Twitter:  https://twitter.com/KoksalBabaToken
-🌔 Discord:  https://discord.gg/......
-🌔 Github:   https://github.com/coinification/KoksalBabaToken.git
+---
+
+| visit us | here |
+| :--- | :--- | 
+| 🌔 Telegram | https://t.me/KoksalBabaToken |
+| 🌔 Website  | https://koksal.rocks/ |
+| 🌔 Discord  | https://discord.gg/...... |
+| 🌔 Twitter  | https://twitter.com/KoksalBabaToken |
+| 🌔 Github   | https://github.com/coinification/KoksalBabaToken.git |
