@@ -1,0 +1,18 @@
+{
+  "name": "KoksalBabaToken",
+  "version": "1.0.0",
+  "description": "KoksalBaba Token ($KOKS) is a meme coin. This is the code for it.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "dev@koksal.rocks",
+  "license": "ISC",
+  "dependencies": {
+    "openzeppelin-solidity": "^4.4.1"
+  }
+}
